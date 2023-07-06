@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Hangal</h1>
-<h3 align="center">full stack Web Developer constantly learning something new about Coding</h3>
+<h3 align="center">Constantly learning something new about Coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
